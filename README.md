@@ -1,4 +1,4 @@
-## Olá, meu nome é {Leandro Machado}!
+## Olá, meu nome é Leandro Machado!
 
 ### ⚙️ GitHub Analytics
 
