@@ -1,8 +1,59 @@
-### Hi there I am Leandro Machado👋
+## Olá, meu nome é {Leandro Machado}!
 
-## My most used languages
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogomesmachado&hide=html&layout=compact&theme=default)](https://github.com/leandrogomesmachado/leandrogomesmachado)
+### ⚙️ GitHub Analytics
 
-## Stars
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=leandrogomesmachado&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogomesmachado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=leandrogomesmachado&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-[![card](https://github-readme-stats.vercel.app/api?username=leandrogomesmachado&theme=default)](https://github.com/leandrogomesmachado/leandrogomesmachado)
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=leandrogomesmachado&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/leandrogomesmachado/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
