@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="114" viewBox="0 0 1200 114" role="img" aria-labelledby="title">
+  <title id="title">Construindo soluções com técnica, propósito e princípios</title>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#007F47"/>
+      <stop offset=".5" stop-color="#062B4B"/>
+      <stop offset="1" stop-color="#002776"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="114" rx="17" fill="url(#base)"/>
+  <path d="M25 14H1175" stroke="#FFDF00" stroke-width="2" opacity=".75"/>
+  <path d="M25 99H1175" stroke="#FFDF00" stroke-width="2" opacity=".75"/>
+  <path d="M105 30L125 45L145 30M105 68L125 83L145 68" stroke="#E2CA65" stroke-width="4" fill="none" stroke-linejoin="round"/>
+  <path d="M1055 30L1075 45L1095 30M1055 68L1075 83L1095 68" stroke="#E2CA65" stroke-width="4" fill="none" stroke-linejoin="round"/>
+  <text x="600" y="52" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">CONHECIMENTO  ·  ÉTICA  ·  CONSTRUÇÃO</text>
+  <text x="600" y="81" text-anchor="middle" fill="#D4EAE7" font-family="Arial, Helvetica, sans-serif" font-size="17">Toda grande obra começa com uma boa base.</text>
+</svg>

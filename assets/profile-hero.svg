@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">Leandro Machado | Brasil, tecnologia e propósito</title>
+  <desc id="desc">Capa azul e verde com detalhes em amarelo e branco, referências à bandeira do Brasil e um esquadro e compasso estilizados.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#06162C"/>
+      <stop offset=".58" stop-color="#072E49"/>
+      <stop offset="1" stop-color="#075637"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#F1BF37"/>
+      <stop offset=".55" stop-color="#FFDF59"/>
+      <stop offset="1" stop-color="#DDA928"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" x2="1">
+      <stop offset="0" stop-color="#007A42"/>
+      <stop offset="1" stop-color="#12B76A"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#CFEAF4" opacity=".13"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="370" rx="25"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="370" fill="url(#sky)"/>
+    <rect width="1200" height="370" fill="url(#dots)"/>
+    <path d="M0 0H1200V7H0Z" fill="#009B3A"/>
+    <path d="M0 7H1200V12H0Z" fill="#FFDF00"/>
+    <path d="M0 12H1200V16H0Z" fill="#FFFFFF"/>
+    <path d="M0 16H1200V20H0Z" fill="#002776"/>
+    <path d="M0 370L530 370L720 0H510Z" fill="#00A859" opacity=".055"/>
+    <path d="M690 370L910 0H1025L805 370Z" fill="#FFDF00" opacity=".055"/>
+    <circle cx="1015" cy="188" r="165" fill="#0B4C55" opacity=".58"/>
+    <circle cx="1015" cy="188" r="151" fill="none" stroke="#FBD04A" stroke-width="2" opacity=".72"/>
+    <circle cx="1015" cy="188" r="139" fill="none" stroke="#D4F5E5" stroke-width="1" stroke-dasharray="3 11" opacity=".34"/>
+    <path d="M82 91H134" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="64" cy="91" r="8" fill="#009B3A" stroke="#FFDF00" stroke-width="2"/>
+    <text x="82" y="101" fill="#DCEEEB" font-size="18" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">BRASIL  ·  TECNOLOGIA  ·  PROPÓSITO</text>
+    <text x="58" y="180" fill="#FFFFFF" font-size="76" font-weight="800" font-family="Arial, Helvetica, sans-serif" letter-spacing="1">LEANDRO</text>
+    <text x="58" y="257" fill="url(#gold)" font-size="83" font-weight="900" font-family="Arial, Helvetica, sans-serif" letter-spacing="1">MACHADO</text>
+    <path d="M61 273H573" stroke="#00A859" stroke-width="5" stroke-linecap="round"/>
+    <text x="60" y="307" fill="#EFFAF7" font-size="24" font-family="Arial, Helvetica, sans-serif">Software, inovação e gestão pública</text>
+    <text x="60" y="340" fill="#B3D6DF" font-size="17" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.1">GO  /  TYPESCRIPT  /  REACT  /  POSTGRESQL</text>
+    <!-- Esquadro e compasso estilizados, com a letra G e a geometria construtiva -->
+    <path d="M1015 77L930 250M1015 77L1100 250" fill="none" stroke="url(#gold)" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="1015" cy="80" r="15" fill="#FFDF59" stroke="#E2B638" stroke-width="4"/>
+    <circle cx="1015" cy="80" r="5" fill="#002776"/>
+    <path d="M956 189Q1015 215 1074 189" fill="none" stroke="#E8FAF4" stroke-width="8" stroke-linecap="round"/>
+    <path d="M917 222L1015 313L1113 222" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M941 224L1015 292L1089 224" fill="none" stroke="#009B3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1015" y="259" fill="#FFDF59" font-size="73" font-weight="700" text-anchor="middle" font-family="Georgia, serif">G</text>
+    <!-- Emblema geométrico nas cores nacionais -->
+    <g transform="translate(759 265)">
+      <rect x="0" y="0" width="100" height="62" rx="11" fill="url(#green)" stroke="#B4EFCD" stroke-width="1.5"/>
+      <path d="M50 7L92 31L50 55L8 31Z" fill="#FFDF00"/>
+      <circle cx="50" cy="31" r="17" fill="#002776"/>
+      <path d="M35 27Q50 22 66 30" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+      <circle cx="48" cy="32" r="1.8" fill="#FFFFFF"/>
+      <circle cx="54" cy="27" r="1.8" fill="#FFFFFF"/>
+    </g>
+    <path d="M0 365H1200" stroke="#FFDF00" stroke-width="5"/>
+  </g>
+</svg>
